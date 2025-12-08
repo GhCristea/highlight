@@ -38,6 +38,8 @@ on the environment.
 
 To generate zip archives, run `zip.sh`.
 
+For a detailed overview of the extension's architecture and workflow, see [ARCHITECTURE.md](ARCHITECTURE.md).
+
 Privacy Policy
 --------------
 
